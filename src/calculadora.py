@@ -1,8 +1,11 @@
+# Función que suma dos números
 def sumar(a, b):
     return a + b
 
+# Función que resta dos números
 def restar(a, b):
     return a - b
+
 
 def multiplicar(a, b):
     return a * b
